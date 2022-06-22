@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Francisco Baca Alurralde
+### Hello there 👋 I'm Francisco Baca Alurralde
 
 - 🔭 I’m currently working on a Hotel Web App for my final project in the Henry Bootcamp using the scrum methodology with my team. 
 - 🌱 I’m currently learning Typescript & React Native
